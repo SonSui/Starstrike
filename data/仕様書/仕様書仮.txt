@@ -1,0 +1,34 @@
+音声
+
+爆発
+Explosion9.wav
+Explosion11.wav
+Hit_Hurt2.wav
+Powerup17.wav
+Randomize38.mp3
+Pickup_Coin5.mp3
+https://gamesupply.itch.io/video-game-sound-pack
+
+Billy's Sacrifice.mp3
+Race to Mars.mp3
+https://dos88.itch.io/dos-88-music-library
+
+
+
+https://foozlecc.itch.io/void-fleet-pack-2
+https://foozlecc.itch.io/void-fleet-pack-3
+https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art
+
+SCORE
+shot5_exp3.png
+
+https://free-game-assets.itch.io/free-enemy-spaceship-2d-sprites-pixel-art
+
+back
+https://ansimuz.itch.io/space-background
+
+life
+https://bdragon1727.itch.io/basic-pixel-health-bar-and-scroll-bar
+
+boss
+https://foozlecc.itch.io/void-fleet-pack-2
