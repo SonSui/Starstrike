@@ -1,6 +1,7 @@
-2D Shooting Game Developed by C++
+2D Shooting Game Developed by C++　based DirectX
+学校のDirectXエンジンを使って、C++で開発した2Dシューティングゲームです。
 
-Demo Video Link: https://youtu.be/lYJO9mmRk0M
+Demo Video Link　演示動画: https://youtu.be/lYJO9mmRk0M
 
  
 
